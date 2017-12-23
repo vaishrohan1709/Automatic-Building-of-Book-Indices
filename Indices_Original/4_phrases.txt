@@ -1,0 +1,40 @@
+back greedy subsequence
+baseball diagram
+collapse
+map
+proper and improper
+combing rectangle
+conjugacy
+derivative
+direction
+edgelet
+of a foldable map
+expansion
+fold
+full
+improper
+proper
+type IA
+type IIIA
+fold factorization
+fold map
+fold path
+fold sequence
+equivalence
+foldable map
+foldable sequence
+free splitting
+free splitting unit
+front greedy subsequence
+gate
+map
+collapse
+fold
+foldable
+natural cell structure
+natural core
+normalization diagram
+projection diagram
+augmented
+W diagram
+zig-zag

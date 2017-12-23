@@ -1,0 +1,23 @@
+(symmetric monic) linear pencil
+admissible chain
+affine linear mapping
+block zero column
+circular
+closed under direct sums
+closed under isometric conjugation
+defining subpencil
+detailed boundary
+free circular
+free spectrahedron
+invariant under coordinate unitary conjugation
+irreducible
+linear matrix inequality
+LMI
+matrix balanced
+matrix convex
+matrix pencil ball
+minimal defining pencil
+monic
+operator pencil ball
+spectrahedron
+subpencil

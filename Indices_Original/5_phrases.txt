@@ -1,0 +1,57 @@
+miscellaneous
+canonical coupling
+Dwork's
+vector space
+categories
+characteristic variety and cycle
+multiplicity
+generic rank (horizontal multiplicity)
+vertical multiplicity
+connection type
+coordinates local coordinates
+d couple
+Deligne module
+differential module
+Dwork's
+free differential module
+regular free differential module
+global sections of
+differential operators
+epsilon factors
+global
+local
+isocrystal overconvergent isocrystal
+Kummer's
+Dwork's
+regular singular point of
+formal disk
+functors
+geometric (global) Fourier transform
+local Fourier transform
+naive (global) Fourier transform
+six operations
+global (geometrically) finite monodromy
+Artinian simple 
+holonomic
+module
+irregularity  
+function
+structure
+local constants
+local parameters
+microdifferential operators
+analytic
+intermediate
+microlocalisation of 
+noetherian filtered rin
+adic hyperfunctions and microfunctions
+module
+rings of analytical functions
+Robba's rings
+singular point
+slope
+Dieudonne Manin slope
+Tate twist
+twist by
+differential slope 
+stable module
